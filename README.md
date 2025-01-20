@@ -1,16 +1,16 @@
-# SS-Steel
+# SS Furniture & Fabrication
  A sample website I created for a fictional Metal fabrication shop. The original template from HTML5 UP zero 4.
  pictures from this website that I used came from pixbay.com
 
-# SS Steel - Metal Fabrication Shop
+# SS Furniture & Fabrication
 
 
 
-Welcome to the SS Steel website repository! This is the GitHub repository for the SS Steel website, a fictional metal fabrication shop. The original website template for SS Steel is based on the HTML5 UP "Zero Four" template.
+Welcome to the SS Furniture & Fabrication website repository! This is the GitHub repository for the SS Furniture & Fabrication website, a fictional metal fabrication shop. The original website template for SS Steel is based on the HTML5 UP "Zero Four" template.
 
-## About SS Steel
+## About SS Furniture & Fabrication
 
-SS Steel is a fictitious metal fabrication shop that specializes in creating high-quality steel products for a variety of industries. Our skilled team of metalworkers and engineers is dedicated to delivering precision craftsmanship and innovative solutions for all your metal fabrication needs.
+SS Furniture & Fabrication is a fictitious metal fabrication shop that specializes in creating high-quality steel products for a variety of industries. Our skilled team of metalworkers and engineers is dedicated to delivering precision craftsmanship and innovative solutions for all your metal fabrication needs.
 
 ## Website Features
 
@@ -22,7 +22,7 @@ SS Steel is a fictitious metal fabrication shop that specializes in creating hig
 
 ## Original Template
 
-The original website template for SS Steel was based on the HTML5 UP "Zero Four" template, designed by [HTML5 UP](https://html5up.net/zero-four). We would like to express our gratitude to HTML5 UP for providing this fantastic template as a starting point for our website.
+The original website template for SS Furniture & Fabrication was based on the HTML5 UP "Zero Four" template, designed by [HTML5 UP](https://html5up.net/zero-four). We would like to express our gratitude to HTML5 UP for providing this fantastic template as a starting point for our website.
 
 ## Repository Structure
 
